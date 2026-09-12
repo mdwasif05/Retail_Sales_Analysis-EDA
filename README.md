@@ -1,5 +1,3 @@
-# Retail_Sales_Analysis-EDA
-
 # Retail Sales Analysis - EDA Project
 
 ## 📊 Project Overview
